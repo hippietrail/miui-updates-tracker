@@ -9,7 +9,7 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=flat&labelColor=F96854&logo=Patreon&logoColor=white&link=https://www.paypal.me/yshalsager)](https://www.paypal.me/yshalsager)
 [![Liberapay](https://img.shields.io/badge/Liberapay-Support-F6C915?style=flat&labelColor=F6C915&logo=Liberapay&logoColor=white&link=https://liberapay.com/yshalsager)](https://liberapay.com/yshalsager)
 
-A Script that automatically track Xiaomi MIUI ROM releases and send messages to telegram, discord, twitter and other platforms to notify users!
+A Script that automatically tracks Xiaomi MIUI ROM releases and sends messages to telegram, discord, twitter and other platforms to notify users!
 
 ## Public YAML and RSS
 Starting from V3 the script provides an all-in-one YAML file, along with RSS XML feeds for each device.
